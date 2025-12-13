@@ -4,7 +4,7 @@
 
 This project leverages Natural Language Processing (NLP) to analyze the impact of Federal Open Market Committee (FOMC) statements on swap rates. In our example, we generate sentiment scores using pre-trained FinBERT model and integrate them, along with VIX rates and historical federal swap rates, into a regression model to predict 2-year federal swap rates for the next term.
 
-- **`Project_Final.ipynb`** / **`Project_Final.pdf`**: Printed version of **`Project_Final.mlx`**, serving as the project Report.
+- **`FOMC_NLP_Poster.pdf`**: Project Report.
 - **`Project_Final.mlx`**: Generates sentiment scores, provides regression analysis and model comparison.
 
 ## Requirements
